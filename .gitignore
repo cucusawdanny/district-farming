@@ -1,0 +1,16 @@
+# 實際部署用的 KML (內含部署網址，請勿提交)
+kml/live_map.local.kml
+
+# 商圈底圖輸出檔 (由 Google 我的地圖匯出，通常不入版控)
+data/*.kml
+data/*.kmz
+!data/.gitkeep
+
+# clasp / node
+.clasp.json
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

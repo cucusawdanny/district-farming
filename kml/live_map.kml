@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <NetworkLink>
+    <name>商圈即時動態標籤</name>
+    <Link>
+      <href>輸入你的網頁應用程式網址</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>60</refreshInterval>
+    </Link>
+  </NetworkLink>
+</kml>
